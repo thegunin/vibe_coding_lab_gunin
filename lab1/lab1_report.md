@@ -21,9 +21,7 @@ Date of finished:
 Для начала был сделан промпт для формирования финального промпта – промпт сохранен в файле `prompt1.txt`.  
 По итогу итоговый промпт (`prompt2.txt`) был загружен в Codex (плагин VS Code) для создания итогового бота.  
 
-В файле VIDEO_DEMO.mp4 приложена видео-демонстрация.
-
-<video controls src="https://github.com/thegunin/vibe_coding_lab_gunin/blob/main/lab1/VIDEO_DEMO.mp4"></video>
+По ссылке https://drive.google.com/file/d/1kXQbOOLGK-nDnIrabSMiOiypduO2PEW5/view?usp=sharing приложена ВИДЕО-ДЕМОНСТРАЦИЯ БОТА
 
 Итог реализации бота описан в шагах ниже (также прилагаю визуализацию)
 
