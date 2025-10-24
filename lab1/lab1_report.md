@@ -23,7 +23,7 @@ Date of finished:
 
 В файле VIDEO_DEMO.mp4 приложена видео-демонстрация.
 
-<video controls src="https://raw.githubusercontent.com/thegunin/vibe_coding_lab_gunin/main/lab1/VIDEO_DEMO.mp4"></video>
+<video controls src="https://github.com/thegunin/vibe_coding_lab_gunin/blob/main/lab1/VIDEO_DEMO.mp4"></video>
 
 Итог реализации бота описан в шагах ниже (также прилагаю визуализацию)
 
