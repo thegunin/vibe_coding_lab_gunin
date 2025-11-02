@@ -1,0 +1,4 @@
+.DS_Store
+bot.log
+feedback_bot.db
+.venv/
