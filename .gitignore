@@ -1,4 +1,11 @@
 .DS_Store
+.venv/
+.env
+*.pyc
+__pycache__/
+*.db
+*.log
 bot.log
 feedback_bot.db
-.venv/
+ngrok.tgz
+ngrok_bin/
